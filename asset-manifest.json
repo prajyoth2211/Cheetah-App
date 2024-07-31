@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/prajyoth2211/Cheetah-App/static/css/main.dd53cbd0.css",
-    "main.js": "/prajyoth2211/Cheetah-App/static/js/main.3e1928f9.js",
-    "static/js/453.1504a1c7.chunk.js": "/prajyoth2211/Cheetah-App/static/js/453.1504a1c7.chunk.js",
-    "index.html": "/prajyoth2211/Cheetah-App/index.html",
-    "main.dd53cbd0.css.map": "/prajyoth2211/Cheetah-App/static/css/main.dd53cbd0.css.map",
-    "main.3e1928f9.js.map": "/prajyoth2211/Cheetah-App/static/js/main.3e1928f9.js.map",
-    "453.1504a1c7.chunk.js.map": "/prajyoth2211/Cheetah-App/static/js/453.1504a1c7.chunk.js.map"
+    "main.css": "/Cheetah-App/static/css/main.dd53cbd0.css",
+    "main.js": "/Cheetah-App/static/js/main.df00c02b.js",
+    "static/js/453.1504a1c7.chunk.js": "/Cheetah-App/static/js/453.1504a1c7.chunk.js",
+    "index.html": "/Cheetah-App/index.html",
+    "main.dd53cbd0.css.map": "/Cheetah-App/static/css/main.dd53cbd0.css.map",
+    "main.df00c02b.js.map": "/Cheetah-App/static/js/main.df00c02b.js.map",
+    "453.1504a1c7.chunk.js.map": "/Cheetah-App/static/js/453.1504a1c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd53cbd0.css",
-    "static/js/main.3e1928f9.js"
+    "static/js/main.df00c02b.js"
   ]
 }
