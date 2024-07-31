@@ -1,25 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import { Container, Typography, AppBar, Toolbar } from '@mui/material';
+import JobBot from './JobBot';
+import './App.css'; // Import the CSS file
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <AppBar position="static" className="header">
+        <Toolbar>
+          <Typography variant="h2" style={{ flexGrow: 1,textAlign: 'center' }}>
+            Cheetah
+          </Typography>
+        </Toolbar>
+      </AppBar>
+      <Container>
+        <JobBot />
+      </Container>
     </div>
   );
-}
+};
 
 export default App;
