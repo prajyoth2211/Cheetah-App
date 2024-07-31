@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Cheetah-App/static/css/main.dd53cbd0.css",
-    "main.js": "/Cheetah-App/static/js/main.df00c02b.js",
+    "main.js": "/Cheetah-App/static/js/main.83a21432.js",
     "static/js/453.1504a1c7.chunk.js": "/Cheetah-App/static/js/453.1504a1c7.chunk.js",
     "index.html": "/Cheetah-App/index.html",
     "main.dd53cbd0.css.map": "/Cheetah-App/static/css/main.dd53cbd0.css.map",
-    "main.df00c02b.js.map": "/Cheetah-App/static/js/main.df00c02b.js.map",
+    "main.83a21432.js.map": "/Cheetah-App/static/js/main.83a21432.js.map",
     "453.1504a1c7.chunk.js.map": "/Cheetah-App/static/js/453.1504a1c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd53cbd0.css",
-    "static/js/main.df00c02b.js"
+    "static/js/main.83a21432.js"
   ]
 }
