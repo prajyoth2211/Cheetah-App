@@ -1,3 +1,7 @@
+# Deployed URL
+
+https://prajyoth2211.github.io/Cheetah-App/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
